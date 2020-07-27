@@ -15,7 +15,7 @@ If you cannot find the files you are looking for please check also our other mir
 Gettor code lives on Tor git: https://gitweb.torproject.org/gettor.git
 
 ## Best secure and fast way to download Tor Project from Turkey  
-**Electronic Frontier Foundation Tor Mirror : https://tor.eff.org/download/**
+**Electronic Frontier Foundation Tor Mirror Page : https://tor.eff.org/download/**
 
 
 
